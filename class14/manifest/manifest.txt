@@ -1,0 +1,2 @@
+/home/romunuch/univer/python/class14/files/f1.txt:d41d8cd98f00b204e9800998ecf8427e
+/home/romunuch/univer/python/class14/files/f2.txt:660d8f6b49a0a3f57e8e4a26094bc3dd
